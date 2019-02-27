@@ -1,3 +1,4 @@
+
 **Q: 软件工程的定义**<br>
 A:  ①软件工程是把系统化、规范化、可度量的方法用在软件开发、运行和维护上。<br>
    ②是对①中的方法的研究。<br>
@@ -40,6 +41,10 @@ A:<br>
 ⑮工程基础<br>
 **Q: 简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。**<br>
 A:<br>
-
+- Level 1 - Initial : 过程无序，控制不良，反应迟钝。<br>
+- Level 2 - Managed : 特征随项目变化，通常有反应。<br>
+- Level 3 - Defined : 按照组织特征化过程，是积极主动的。<br>
+- Level 4 - Quantivitatively Managed : 过程度量和控制。<br>
+- Level 5 - Optimizing : 集中注意力进行过程提升。<br>
 **Q: 用自己语言简述 SWEBok 或 CMMI （约200字）**<br>
 A:<br>
