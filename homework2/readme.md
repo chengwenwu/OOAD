@@ -47,7 +47,7 @@
 
 界面的左上角有一个“血条”，它被分成三个部分，绿色代表<font color="green">todo</font>里面note的数量在总的note中所占的比例，蓝色代表<font color="blue">in progress</font>,灰色代表<font color="gray">done</font>
 
-![1552372284764](C:\Users\26815\AppData\Roaming\Typora\typora-user-images\1552372284764.png)
+![uml](https://github.com/chengwenwu/OOAD/blob/master/homework2/uml.png)
 
 - UML（课本181页，图16-1）
 
@@ -57,5 +57,5 @@
   - 两个连续的小短线”--“是一条<font  color="red">分割线</font>
   - ”//“两个斜杠之间的内容<font  color="red">斜体</font>。
 
-  ![uml](C:\Users\26815\OneDrive\课程资料\系统分析与设计\homewotk\uml.png)
+  ![kanban](https://github.com/chengwenwu/OOAD/blob/master/homework2/看板.png)
 
