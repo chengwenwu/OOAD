@@ -57,5 +57,5 @@
   - 两个连续的小短线”--“是一条<font  color="red">分割线</font>
   - ”//“两个斜杠之间的内容<font  color="red">斜体</font>。
 
-  ![kanban](https://github.com/chengwenwu/OOAD/blob/master/homework2/看板.png)
+  ![kanban](https://github.com/chengwenwu/OOAD/blob/master/homework2/%E7%9C%8B%E6%9D%BF.PNG)
 
