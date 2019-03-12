@@ -57,5 +57,5 @@
   - 两个连续的小短线”--“是一条<font  color="red">分割线</font>
   - ”//“两个斜杠之间的内容<font  color="red">斜体</font>。
 
-  <img src="%E7%9C%8B%E6%9D%BF.PNG" width="1125" height="340">
+  <img src="%E7%9C%8B%E6%9D%BF.PNG" >
 
