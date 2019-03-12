@@ -47,7 +47,7 @@
 
 界面的左上角有一个“血条”，它被分成三个部分，绿色代表<font color="green">todo</font>里面note的数量在总的note中所占的比例，蓝色代表<font color="blue">in progress</font>,灰色代表<font color="gray">done</font>
 
-![uml](https://github.com/chengwenwu/OOAD/blob/master/homework2/uml.png)
+<img src="uml.png">
 
 - UML（课本181页，图16-1）
 
@@ -57,5 +57,5 @@
   - 两个连续的小短线”--“是一条<font  color="red">分割线</font>
   - ”//“两个斜杠之间的内容<font  color="red">斜体</font>。
 
-  ![kanban](https://github.com/chengwenwu/OOAD/blob/master/homework2/%E7%9C%8B%E6%9D%BF.PNG)
+  <img src="%E7%9C%8B%E6%9D%BF.PNG">
 
