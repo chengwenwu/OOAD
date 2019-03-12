@@ -25,7 +25,7 @@
       - 合作图：强调对象间的动态协作关系
     - 状态图：对象的动态行为。状态-事件-状态迁移-响应动作
     - 活动图：描述系统为完成某功能而执行的操作序列
-  -  实现图：描述系统的组成和分布状况
+  - 实现图：描述系统的组成和分布状况
     - 构件图：组成部件及其关系
     - 部署图：物理体系结构及与软件单元的对应关系 
 
@@ -38,7 +38,24 @@
 # 2、项目管理实践
 
 - 看板
-- UML
 
+我直接在github的仓库下，建立了一个project。使用它的看板功能。
 
+它里面默认有三个模块，<font color="blue">todo， in progress, done</font>,也可以自己添加或者删除模块。
+
+每个模块内可以添加note，如果完成该note，就可以选择achive从该模块移除note。
+
+界面的左上角有一个“血条”，它被分成三个部分，绿色代表<font color="green">todo</font>里面note的数量在总的note中所占的比例，蓝色代表<font color="blue">in progress</font>,灰色代表<font color="gray">done</font>
+
+![1552372284764](C:\Users\26815\AppData\Roaming\Typora\typora-user-images\1552372284764.png)
+
+- UML（课本181页，图16-1）
+
+  - 可以通过在编辑器中输入bg=pink， fg=black把<font  color="red">背景</font>设为粉色，<font  color="red">前景</font>设为黑色。
+  - 通过把属性或者方法用一对“_"下划线括起来，给其加上<font  color="red">下划线。</font>
+  - 通过把接口名或者类名用一对“*"星号括起来，将其<font  color="red">加粗</font>
+  - 两个连续的小短线”--“是一条<font  color="red">分割线</font>
+  - ”//“两个斜杠之间的内容<font  color="red">斜体</font>。
+
+  ![uml](C:\Users\26815\OneDrive\课程资料\系统分析与设计\homewotk\uml.png)
 
