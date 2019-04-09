@@ -30,7 +30,7 @@
 
 6. 用例图的基本符号与元素？
 
-   ![1554448595892](C:\Users\26815\AppData\Roaming\Typora\typora-user-images\1554448595892.png)![1554727772776](C:\Users\26815\AppData\Roaming\Typora\typora-user-images\1554727772776.png)
+   ![1554448595892](image/elements_2.png)![1554727772776](image/elements_1.png)
 
    - 圈：表示用例
 
