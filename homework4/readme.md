@@ -61,7 +61,7 @@
 
 - 选择2-3个你熟悉的类似业务的在线服务系统（或移动 APP），如定旅馆（携程、去哪儿等）、定电影票、背单词APP等，分别绘制它们用例图。并满足以下要求：
 
-  ![usercase1](image/usercase1.png)
+  ![usercase1](image/usercase_1.png)
 
   - 请使用用户的视角，描述用户目标或系统提供的服务
   - 粒度达到子用例级别，并用 include 和 exclude 关联它们
