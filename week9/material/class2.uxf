@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>130</x>
+      <y>280</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>payment
+--
+Date&amp;time</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>440</x>
+      <y>280</y>
+      <w>120</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Credit card
+--
+bank_name
+card_id
+Security_code
+phone_number
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>480</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Reservation
+--
+total_price
+date&amp;time
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>320</y>
+      <w>240</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..n
+m2=1
+use &gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;220.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>160</x>
+      <y>340</y>
+      <w>60</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0...n
+m2=1
+for v</panel_attributes>
+    <additional_attributes>10.0;140.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>
